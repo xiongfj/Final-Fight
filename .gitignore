@@ -1,0 +1,7 @@
+*.db
+
+*.ncb
+*.opt
+*.plg
+
+Debug/
