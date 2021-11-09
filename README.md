@@ -11,6 +11,8 @@
 * 项目地址链接：https://codebus.cn/xiongfj/fc-final-fight
 
 # 截图
-![image](https://raw.githubusercontent.com/xiongfj/FC-FinalFight/master/Screenshot/1.png)
-![image](https://raw.githubusercontent.com/xiongfj/FC-FinalFight/master/Screenshot/2.png)
-![image](https://raw.githubusercontent.com/xiongfj/FC-FinalFight/master/Screenshot/3.png)
+![image](https://raw.githubusercontent.com/xiongfj/FC-FinalFight/master/screenshot/1.png)
+![image](https://raw.githubusercontent.com/xiongfj/FC-FinalFight/master/screenshot/2.png)
+![image](https://raw.githubusercontent.com/xiongfj/FC-FinalFight/master/screenshot/3.png)
+![image](https://raw.githubusercontent.com/xiongfj/FC-FinalFight/master/screenshot/4.png)
+![image](https://raw.githubusercontent.com/xiongfj/FC-FinalFight/master/screenshot/5.png)
